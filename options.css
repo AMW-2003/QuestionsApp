@@ -1,0 +1,47 @@
+/* label {
+
+    background: lightgrey;
+    width: 100px;
+    height: 100px;
+}
+
+#demo:checked + label {
+    border-color: blue;
+    color: white;
+} */
+
+
+
+
+.turnButtonRed { 
+    background-color: red;
+}
+
+.default { 
+    background-color: aqua;
+}
+
+
+.default:hover { 
+    transform: scale(1.5); 
+}
+
+
+.turnButtonRed:hover { 
+    transform: scale(1.5); 
+    
+}
+
+
+li.active { 
+    background-color: red;
+}
+
+li { 
+    background-color: "";
+}
+
+
+.active {
+    background-color: red;
+}

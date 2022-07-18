@@ -1,0 +1,25 @@
+/* .optionSelected { 
+    background-color: blue;
+
+}
+
+
+.optionSelected:hover { 
+    transform: scale(1.5); 
+}
+
+button.hello:hover {
+    transform: scale(1.5); 
+
+}
+
+button.hello { 
+    background-color: red;
+} */
+
+
+
+
+.selected { 
+    background-color: red;
+}
